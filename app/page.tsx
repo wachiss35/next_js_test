@@ -19,7 +19,8 @@ tracking-widest">newwwww มาเอง</h1>
         <BmiForm />
       </CardLayout>
       <p id="demo"></p>
-      <Script>document.write(5 + 6);</Script>
+      <Script></Script>
+      <script src="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import.meta"></script>
     </main>
   );
 }
