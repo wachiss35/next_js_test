@@ -19,7 +19,7 @@ tracking-widest">newwwww มาเอง</h1>
         <BmiForm />
       </CardLayout>
       <p id="demo"></p>
-      
+      <Script></Script>
     </main>
   );
 }
