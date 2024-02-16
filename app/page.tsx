@@ -1,5 +1,6 @@
 import CardLayout from '@/app/components/CardLayout'
 import BmiForm from '@/app/components/BmiForm'
+import Script from 'next/script';
 
 export default function Home() {
   return (
@@ -18,6 +19,10 @@ tracking-widest">newwwww มาเอง</h1>
       <CardLayout>
         <BmiForm />
       </CardLayout>
+      <p id="demo"></p>
+      <Script>
+      document.getElementById("demo").innerHTML = "Hello JavaScript!";
+      </Script>
     </main>
   );
 }
