@@ -7,11 +7,7 @@ export default function Home() {
       <h1 className="my-14 text-center text-3xl font-bold uppercase 
 tracking-widest">newwwww มาเอง</h1>
 <img src="https://happeningandfriends.com/uploads/happening/products/46/004551/mock_ST_popecat.jpg"></img>
-<iframe src="url" title="description"></iframe>
-      <iframe
-src="
-https://pantip.com/topic/42522966/comment1
-" title="description"
+      <iframe src="https://pantip.com/topic/42522966/comment1" title="description"
 ></iframe>
       <a
           href="https://translate.google.com/"
