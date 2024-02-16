@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-5 lg:p-24">
       <h1 className="my-14 text-center text-3xl font-bold uppercase 
-tracking-widest">newwwww มาเอง</h1>
+tracking-widest">BMI appppp</h1>
 <img src="https://happeningandfriends.com/uploads/happening/products/46/004551/mock_ST_popecat.jpg"></img>
       <iframe src="https://www.adobe.com/express/create/media_147b85d9e4cb15b95023a74537b8dd2058027f26f.png?width=750&format=png&optimize=medium" title="description"></iframe>
       <a
